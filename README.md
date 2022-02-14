@@ -17,12 +17,19 @@ I'm a full-stack developer studying Electrical and Computer Engineering in the B
 - Server-based and server-less deployment
 
 ### I'm interested in learning more about 💭
+
 🤖 Machine learning
+
 ⛓ Practical applications for the blockchain
+
 🥦 3D Graphics in the browser
+
 📈 Scalable solutions (Docker, Lambdas)
+
 🎲 Game theory
+
 🔒 Security/Cryptography
+
 🔥 Browser performance optimization
 
 I'm always interested in opportunities to apply my skills and learn something new!
