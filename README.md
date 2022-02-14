@@ -12,6 +12,7 @@ I'm a full-stack developer studying Electrical and Computer Engineering in the B
 - Node.js/Typescript
 - Vue.js/React.js
 - UI/UX Design
+- Discord bot development
 - OAuth2 and web payment integration
 - Python, Java, C, ARM Assembly
 - Server-based and server-less deployment
