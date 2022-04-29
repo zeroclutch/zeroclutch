@@ -10,7 +10,7 @@ I'm a developer studying Electrical and Computer Engineering in the Bay Area. I'
 
 ### My skills include
 - Node.js/Typescript
-- Vue.js/React.js
+- Vue.js/React.js/Web Dev
 - UI/UX Design
 - Discord bot development
 - OAuth2 and web payment integration
