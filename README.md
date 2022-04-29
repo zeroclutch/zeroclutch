@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm a developer studying Electrical and Computer Engineering in the Bay Area. I'm passionate about user interface and interaction design, and I enjoy developing multi-platform web applications.
+I'm a developer studying Electrical and Computer Engineering in the Bay Area. I love creating cool and innovative things that people can interact with.
 
 ### Some things I've worked on 🔨
 - [**Gamebot**](https://gamebot.rocks), a Discord bot that connects people through games, used in over 30,000 communities.
