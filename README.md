@@ -3,7 +3,7 @@
 I'm a developer studying Electrical and Computer Engineering in the Bay Area. I love creating cool and innovative things that people can interact with.
 
 ### Some things I've worked on 🔨
-- [**Gamebot**](https://gamebot.rocks), a Discord bot that connects people through games, used in over 30,000 communities.
+- [**Gamebot**](https://gamebot.rocks), a Discord bot that connects people through games, used in over 40,000 communities.
 - [**Killing Time**](https://github.com/zeroclutch/killingtime), a browser game that lets you shoot alarm clocks using finger guns through machine vision, a top 5 overall project and Domain.com award winner at LAHacks 2022 🏆.
 - [**ukr.ai**](https://github.com/zeroclutch/ukrai), a webapp that uses machine learning to detect misinformation about the Russia-Ukraine conflict, winner of HackUCI 2022 🏆.
 - [**Recovery**](https://github.com/zeroclutch/recovery), a nutrition app that lets COVID patients easily track their nutrition needs.
